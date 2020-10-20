@@ -1,0 +1,4 @@
+constraint: constraints/serviceuser.services
+listPolicy:
+  allowedValues:
+  - All
